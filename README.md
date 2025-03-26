@@ -1,8 +1,6 @@
 # bad-pico
 <img src="https://github.com/user-attachments/assets/0a9cfdbb-11c4-49fe-94b6-a4009188149e" alt="IMG_01" width="600">
 
-Bad USB project using Raspberry Pi Pico
-
 # Requirements
 - Raspberry Pi Pico
 - 
