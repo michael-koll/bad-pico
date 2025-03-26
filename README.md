@@ -1,4 +1,4 @@
-# Bad Pico
+# bad-pico
 <img src="https://github.com/user-attachments/assets/a86fc9e2-eaeb-43d1-bf7c-59b97f7b021f" alt="IMG_01" width="900">
 
 # Requirements
