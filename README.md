@@ -1,5 +1,5 @@
 # bad-pico
-<img src="https://github.com/user-attachments/assets/0a9cfdbb-11c4-49fe-94b6-a4009188149e" alt="IMG_01" width="600">
+<img src="https://github.com/user-attachments/assets/a86fc9e2-eaeb-43d1-bf7c-59b97f7b021f" alt="IMG_01" width="1000">
 
 # Requirements
 - Raspberry Pi Pico
