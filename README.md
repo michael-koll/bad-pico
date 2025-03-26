@@ -3,7 +3,7 @@
 
 # Requirements
 - Raspberry Pi Pico
-- 
+- USB-Type-C to USB-Type-A Cable
 
 # Setup
 1. Plug the Raspberry Pi Pico into the USB-A port on your computer while pressing the `BOOT` Button
