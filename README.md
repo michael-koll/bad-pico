@@ -15,7 +15,7 @@
    (for other languages visit https://www.neradoc.me/layouts/)
 8. Copy the folder <a href="https://github.com/michael-koll/bad-pico/tree/db70f938178029ae3bb420612fd6c7bf1faba3ff/adafruit_hid">adafruit_hid</a> into the `lib` folder of `CIRCUITPY`
 9. At the end the `lib` folder of `CIRCUITPY` should look like this:                                                              
-   <img src="https://github.com/user-attachments/assets/3431ad20-ae2b-4675-ab96-ed65198769d2" alt="IMG_05" width="400"/>
+   <img src="https://github.com/user-attachments/assets/0eafd492-bb3e-49a5-9c18-1125b8fde647" alt="IMG_05" width="200"/>
 10. Copy the content of <a href="https://github.com/michael-koll/bad-pico/blob/bc51192bd2319b3314d5a06a7a27a85003dfbb65/payload.py">payload.py</a> into `code.py` of `CIRCUITPY`
 11. Be careful! As soon as you save the `code.py` file, the payload will be executed on your system!
 
