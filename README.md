@@ -18,5 +18,5 @@
    <img src="https://github.com/user-attachments/assets/0eafd492-bb3e-49a5-9c18-1125b8fde647" alt="IMG_03" width="200"/>
 10. Copy the content of <a href="https://github.com/michael-koll/bad-pico/blob/bc51192bd2319b3314d5a06a7a27a85003dfbb65/payload.py">payload.py</a> into `code.py` of `CIRCUITPY`
 11. Change the `command` within the `code.py` to whatever powershell command you want to run                                              
-    <img src="https://github.com/user-attachments/assets/f139026b-42b6-43eb-9396-a1978cb50d8c" alt="IMG_04" width="200"/>
+    <img src="https://github.com/user-attachments/assets/f139026b-42b6-43eb-9396-a1978cb50d8c" alt="IMG_04" width="175"/>
 13. Be careful! As soon as you save the `code.py` file, the payload will be executed on your system!
