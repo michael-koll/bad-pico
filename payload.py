@@ -12,7 +12,7 @@ layout = KeyboardLayout(kbd)
 led = digitalio.DigitalInOut(board.LED)
 led.direction = digitalio.Direction.OUTPUT
 
-def run_powershell_hidden(command):
+def run_powershell(command):
     kbd.press(Keycode.WINDOWS, Keycode.R)
     kbd.release_all()
     time.sleep(0.2)
@@ -29,7 +29,7 @@ def run_powershell_hidden(command):
     kbd.release_all()
 
 command = "calc"
-run_powershell_hidden(command)
+run_powershell(command)
 
 while True:
     led.value = True
