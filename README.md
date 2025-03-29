@@ -21,5 +21,4 @@
     <img src="https://github.com/user-attachments/assets/f139026b-42b6-43eb-9396-a1978cb50d8c" alt="IMG_04" width="175"/>
 13. Be careful! As soon as you save the `code.py` file, the payload will be executed on your system!
 # Poc Video
-https://github.com/user-attachments/assets/a89b83fa-44dd-41a6-8818-b1adcd475942
-
+https://github.com/user-attachments/assets/a4a637c1-07b4-407a-ac29-768c91c2f24a
