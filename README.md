@@ -18,6 +18,3 @@
    <img src="https://github.com/user-attachments/assets/0eafd492-bb3e-49a5-9c18-1125b8fde647" alt="IMG_05" width="200"/>
 10. Copy the content of <a href="https://github.com/michael-koll/bad-pico/blob/bc51192bd2319b3314d5a06a7a27a85003dfbb65/payload.py">payload.py</a> into `code.py` of `CIRCUITPY`
 11. Be careful! As soon as you save the `code.py` file, the payload will be executed on your system!
-
-# PoC
-https://github.com/user-attachments/assets/72e36a18-3666-4309-83b7-3370d165699b
