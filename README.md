@@ -23,7 +23,4 @@
 # Poc Video
 https://github.com/user-attachments/assets/a4a637c1-07b4-407a-ac29-768c91c2f24a
 
-
 https://github.com/user-attachments/assets/38869f6d-2439-41f1-a105-40536cdcaed2
-
-https://github.com/user-attachments/assets/21bf83ab-5722-44c2-adad-e4c1a75af1d2
